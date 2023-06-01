@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidlab</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_map">Map</string>
+    <string name="title_add_note">Add note</string>
+    <string name="title_edit_note">Edit note</string>
+</resources>
